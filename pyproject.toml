@@ -18,6 +18,7 @@ django-cors-headers = "^4.6.0"
 redis = "^5.2.1"
 celery = "^5.4.0"
 eventlet = "^0.39.0"
+gevent = "^24.11.1"
 
 
 [build-system]
