@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'vehicle',
     'drf_yasg',
     'corsheaders',
+
 ]
 
 MIDDLEWARE = [
